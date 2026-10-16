@@ -10,7 +10,10 @@
     {
       "name": "replica-skill",
       "description": "Eleven Claude skills that clone any app: recon, architecture, design, build, backend, test, parity diff, a review-reading Entrepreneur skill, brand, launch and deploy.",
-      "source": "./",
+      "source": {
+  "source": "github",
+  "repo": "osa822630-droid/replica-skill"
+      }
       "category": "productivity",
       "homepage": "https://github.com/Jakeschincariol/replica-skill"
     }
